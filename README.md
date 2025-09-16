@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @DrJonoG
-- 👀 I’m interested in PHP, Python, Stock Markets, Day Trading, SSQL, Deep Learning, Computer Vision, 3D Reconstruction, Ray Tracing
-- 🌱 I’m currently undertaking a machine learning course at Imperial College London to obtain a professional certification 
-- 💞️ I’m looking to collaborate on multiple academic projects relating to deep learning, computer vision, robotics and 3D modelling from 2D images.
-- 📫 How to reach me on my website @ www.jonathongibbs.co.uk or jonathongibbs@hotmail.co.uk
+I am a postdoctoral researcher at the University of Nottingham, specialising in machine learning, computer vision, and robotics. With a PhD in Computer Science and a first-class degree in Software Systems, I am currently advancing my expertise through a machine learning program at Imperial College London. My research focuses on developing cutting-edge deep learning solutions for complex visual recognition tasks and automated systems, with a particular emphasis on 3D reconstruction and plant phenotyping applications.
 
-<!---
-DrJonoG/DrJonoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a profoundly deaf data scientist and academic, I have built a distinguished career across academia and industry. My PhD research centred on the reconstruction of complex objects, particularly crop plants, from multiple views using active vision. I developed novel algorithms integrating volumetric and point cloud data, significantly improving 3D modelling accuracy. My work has been widely published in high-impact journals, advancing deep learning applications in plant phenotyping, 3D reconstruction, and dynamic modelling of plant movement for photosynthesis analysis.
+
+I am passionate about open science and believe in the free availability of data to drive academic progress. This philosophy led me to develop StomataHub.com, a platform designed to facilitate the sharing of datasets and improve research efficiency across the scientific community.
+
+Currently, I am engaged in multiple research projects at the University of Nottingham. These include the identification, tracking, and analysis of duckweed using deep learning, enhancements to the active vision system developed during my PhD, and the application of semantic segmentation for stomata detection. In addition, I am developing deep learning models to restore image quality in blurred stomatal microscopy images, to improve phenotyping and identification.
+
+My expertise encompasses multiple programming languages, including Python, C#, PHP, and SQL, along with deep learning, machine learning, large-scale data analysis, robotic system design, and advanced computer vision techniques. Throughout my career, including roles at NHS and Lockwood Publishing, I have consistently driven innovation and efficiency through data-driven solutions. My current research continues to push the boundaries of computer vision, integrating deep learning with high-throughput phenotyping systems and autonomous vision-based control systems.
+
+https://jonathongibbs.co.uk (Personal Website)
+https://thestorychamber.com (Founder)
